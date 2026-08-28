@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Library\\PackageCache\\com.unity.ai.assistant@c0127625258e\\Modules\\Unity.AI.Toolkit.Accounts\\Services\\Core\\AccountApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ai.assistant@c0127625258e\\Modules\\Unity.AI.Toolkit.Accounts\\Services\\Core\\AccountApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Assets\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\2026-2\\POO\\D4ta\\Assets\\scripts\\Personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +17,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountApi.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Library\\PackageCache\\com.unity.ai.assistant@c0127625258e\\Modules\\Unity.AI.Toolkit.Accounts\\Services\\Core\\AccountApi.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ai.assistant@c0127625258e\\Modules\\Unity.AI.Toolkit.Accounts\\Services\\Core\\AccountApi.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Library\\PackageCache\\com.unity.ai.assistant@c0127625258e\\Modules\\Unity.AI.Toolkit.Accounts\\Services\\Core\\AccountApi.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.ai.assistant@c0127625258e\\Modules\\Unity.AI.Toolkit.Accounts\\Services\\Core\\AccountApi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\2026-2\\POO\\D4ta\\Assets\\scripts\\Personaje.cs",
+              "RelativeDocumentMoniker": "..\\..\\D4ta\\Assets\\scripts\\Personaje.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\2026-2\\POO\\D4ta\\Assets\\scripts\\Personaje.cs",
+              "RelativeToolTip": "..\\..\\D4ta\\Assets\\scripts\\Personaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T22:18:08.651Z",
+              "WhenOpened": "2026-08-28T22:54:41.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Assets\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Assets\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:48:44.469Z",
               "EditorCaption": ""
             }
           ]
