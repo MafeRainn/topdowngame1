@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Assets\\Player\\scripts\\Obstaculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\scripts\\Obstaculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\2026-2\\poo\\topdowngame1\\topdown1\\assets\\player\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\2026-2\\POO\\D4ta\\Assets\\scripts\\Personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -13,11 +21,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Personaje.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2026-2\\POO\\D4ta\\Assets\\scripts\\Personaje.cs",
               "RelativeDocumentMoniker": "..\\..\\D4ta\\Assets\\scripts\\Personaje.cs",
@@ -25,7 +33,32 @@
               "RelativeToolTip": "..\\..\\D4ta\\Assets\\scripts\\Personaje.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T22:54:41.98Z",
+              "WhenOpened": "2026-08-28T22:54:41.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Assets\\Player\\scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Assets\\Player\\scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Player\\scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T20:20:47.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Obstaculo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Assets\\Player\\scripts\\Obstaculo.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\scripts\\Obstaculo.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\2026-2\\POO\\topdowngame1\\topdown1\\Assets\\Player\\scripts\\Obstaculo.cs",
+              "RelativeToolTip": "Assets\\Player\\scripts\\Obstaculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T19:03:45.897Z",
               "EditorCaption": ""
             }
           ]

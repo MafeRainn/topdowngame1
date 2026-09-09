@@ -6,7 +6,7 @@ public class Obstaculo : ObjetoMundo
 
     public override void AlContacto(Jugador jugador)
     {
-        jugador.Recibirdano(dano)
+        jugador.Recibirdano(dano);
         Destroy(this.gameObject);
     }
 
